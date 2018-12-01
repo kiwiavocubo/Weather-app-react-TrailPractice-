@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Original Tutorial Link:
+https://www.youtube.com/watch?v=204C9yNeOYI
+Original Source Code:
+https://github.com/hamza-mirza/react-weather-app
+
 ## Available Scripts
 
 In the project directory, you can run:
